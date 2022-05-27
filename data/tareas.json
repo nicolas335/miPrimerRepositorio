@@ -1,0 +1,30 @@
+[
+  {
+    "titulo": "trainee",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "junior",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "semi-senior",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "senior",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "master",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "master of pupets",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "master en tener sueño",
+    "estado": "terminada"
+  }
+]
